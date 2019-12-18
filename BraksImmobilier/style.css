@@ -1,0 +1,109 @@
+body {
+	background-color: white;
+	background-image: url(images/imagedefond.jpg);
+	background-attachment: fixed;
+	color: rgb(30, 30, 30);
+	font-family: Raleway;
+	font-size: 16px;
+	font-weight: bolder;
+}
+
+h1 {
+	color: #232020;
+	font-family: 'Abril Fatface', cursive;
+	font-weight: bolder;
+}
+
+h2 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 26px;
+	color: #232020;
+}
+a {
+	text-decoration: none;
+	color: red;
+	font-size: 19px;
+}
+a:hover {
+	color: rgb(30, 30, 30);
+}
+i {
+	color: blue;
+}
+#intro p {
+	margin-bottom: 20px
+}
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 3px 3px 3px 1px grey;
+	border-radius 4px;
+	margin: 20px 0px;
+	list-style: none;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;	
+}
+.list-inline i {
+	font-size: 40px;
+}
+.list-inline:hover i {
+	color: black;
+}
+.img-circle {
+	border-radius: 100px;
+}
+#ee { 
+	color: red;
+}
+.top-white {
+	background-color: #e3f6f5;
+	padding: 10px;
+	box-shadow: 3px 3px 3px 1px grey;
+	border-radius 4px;
+	margin: 0px 0px;
+	text-align: center;
+	list-style: none;
+	width: 1870px;
+}
+h2:hover {
+	color: red;
+}
+h1:hover {
+	color: red;
+}
+#text1 {
+	margin-top: 0px;
+}
+.container2 {
+	text-align: left;
+	margin: 10px;
+}
+.photoapp {
+	text-align: center;
+}
+#chalet3 {
+	margin-left: 400px;
+	font-size: x-large;
+}
+#titre {
+	text-align: center;
+}
+#chalet5 {
+	margin-left: 600px;
+	font-size: x-large;
+}
+.btn-blue {
+	background-color: #3fc5f0;
+	color: white;
+	padding: 13px 18px;
+	border-radius: 4px;
+}
+.btn-blue:hover {
+	background-color: grey;
+	color: white;
